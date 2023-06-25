@@ -29,7 +29,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: Black ;
+    color: White ;
 }
 
 .titulo2 {
@@ -81,7 +81,14 @@
 }
     
     
-
+.texto2 {
+     margin-bottom: 10px;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: White;
+}
 
     
     
